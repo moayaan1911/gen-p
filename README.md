@@ -1,6 +1,6 @@
 # gen-P
 
-**Deployment Link:-**
+**Deployment Link:-** https://gen-p.vercel.app/
 
 ## PREVIEW
 

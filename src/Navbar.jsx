@@ -9,7 +9,9 @@ const Navbar = () => {
       <a href="https://github.com/moayaan1911/gen-p" target={"_blank"}>
         GITHUB Repo
       </a>
-      <a href="#about">Video Demo</a>
+      <a href="https://youtu.be/2DSzox0krMU" target={"_blank"}>
+        Video Demo
+      </a>
       <a href="https://linktr.ee/ayaaneth" target="_blank" rel="noreferrer">
         ✨Connect With Developer✨
       </a>
