@@ -26,6 +26,7 @@ Steps to run this project on your local machine:-
 3. Run `yarn` OR `npm i --legacy-peer-deps`
 4. Run `yarn start` OR `npm run start`
 
+___
 ---
 
 ## About the Developer
